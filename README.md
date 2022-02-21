@@ -13,3 +13,21 @@ I want to create software that will help people solve their problems or make the
 <p align='center'>
    📫 How to reach me: <a href='mailto:anton.narizhny@gmail.com'>anton.narizhny@gmail.com</a>
 </p>
+
+## 🛠 Technical Stack
+*  Java (Core, Collections, Stream API)
+*  Spring Framework (Core, Boot, Web, Security, Data)
+*  SQL (PostgreSQL)
+*  ORM (Hibernate)
+*  Git (GitHub)
+*  Maven
+*  Lombok
+*  HTML, CSS, Thymeleaf
+*  REST, Jackson
+*  IntelliJ IDEA
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/AntonNarizhny/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=AntonNarizhny&color=DE002D">
+   </a>
+</div>
