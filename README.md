@@ -15,15 +15,16 @@ I want to create software that will help people solve their problems or make the
 </p>
 
 ## 🛠 Technical Stack
-*  Java (Core, Collections, Stream API)
-*  Spring Framework (Core, Boot, Web, Security, Data)
+*  Java (Core, Collections, Stream API, Multithreading, Concurrent, Reflection API)
+*  Spring Framework (Core, Boot, Web, Security, Data, JDBC Tempate)
 *  SQL (PostgreSQL)
 *  ORM (Hibernate)
+*  Liquibase
+*  HTML, CSS, Thymeleaf
+*  REST, Jackson
 *  Git (GitHub)
 *  Maven
 *  Lombok
-*  HTML, CSS, Thymeleaf
-*  REST, Jackson
 *  IntelliJ IDEA
 
 <div align="center" style="margin: 40px 0">
