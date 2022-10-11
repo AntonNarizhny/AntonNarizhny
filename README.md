@@ -1,4 +1,7 @@
-### Hi, I'm Anton 👋
+<h1 align="center">Hi, I'm <a href="#" target="_blank">Anton</a> 
+<img alt="Hello!" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Java Backend Developer</h3>
+
 I am a backend developer. I believe in the power of programming to change and improve the lives of people around the world.
 
 I like to create software products that will help people solve their problems or make their life easier.
@@ -14,22 +17,26 @@ I like to create software products that will help people solve their problems or
    📫 How to reach me: <a href='mailto:anton.narizhny@gmail.com'>anton.narizhny@gmail.com</a>
 </p>
 
+<div>
 ## 🛠 Technical Stack
-* OOP, SOLID
-* Java (Core, Collections, Stream API, Multithreading, Reflection API)
-* Spring Framework (Core, Boot, Web, Security, Data, JDBC Tempate)
-* SQL (PostgreSQL)
-* ORM (Hibernate)
-* JUnit, Mockito
-* Liquibase
-* REST, MVC
-* XML, JSON, YAML
-* Jackson
-* Git (GitHub)
-* Maven
-* Lombok
-* HTML, CSS, Thymeleaf
-* IntelliJ IDEA
+   <ul>
+      <li>OOP, SOLID</li>
+      <li>Java (Core, Collections, Stream API, Multithreading, Reflection API)</li>
+      <li>Spring Framework (Core, Boot, Web, Security, Data, JDBC Tempate)</li>
+      <li>SQL (PostgreSQL)</li>
+      <li>ORM (Hibernate)</li>
+      <li>JUnit, Mockito</li>
+      <li>Liquibase</li>
+      <li>REST, MVC</li>
+      <li>XML, JSON, YAML</li>
+      <li>Jackson</li>
+      <li>Git (GitHub)</li>
+      <li>Maven</li>
+      <li>Lombok</li>
+      <li>HTML, CSS, Thymeleaf</li>
+      <li>IntelliJ IDEA</li>
+   </ul>
+</div>
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/AntonNarizhny/github-profile-views-counter">
