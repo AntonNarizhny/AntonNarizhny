@@ -1,7 +1,7 @@
 ### Hi, I'm Anton 👋
-I'm a developer who specializes in backend. I believe in the power of programming to transform and improve the lives of people around the world. 
+I am a backend developer. I believe in the power of programming to change and improve the lives of people around the world.
 
-I want to create software that will help people solve their problems or make their life easier. Therefore, I'm attracted to the development of new software products, but I'm also not afraid of legacy projects, since they are already used by people and bring them benefits. I'm interested in working both in product companies and in outsourcing. My goal is to become a highly qualified specialist in order to benefit customers and people.
+I like to create software products that will help people solve their problems or make their life easier.
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/anton-narizhny">
@@ -15,17 +15,21 @@ I want to create software that will help people solve their problems or make the
 </p>
 
 ## 🛠 Technical Stack
-*  Java (Core, Collections, Stream API, Multithreading, Concurrent, Reflection API)
-*  Spring Framework (Core, Boot, Web, Security, Data, JDBC Tempate)
-*  SQL (PostgreSQL)
-*  ORM (Hibernate)
-*  Liquibase
-*  HTML, CSS, Thymeleaf
-*  REST, Jackson
-*  Git (GitHub)
-*  Maven
-*  Lombok
-*  IntelliJ IDEA
+* OOP, SOLID
+* Java (Core, Collections, Stream API, Multithreading, Reflection API)
+* Spring Framework (Core, Boot, Web, Security, Data, JDBC Tempate)
+* SQL (PostgreSQL)
+* ORM (Hibernate)
+* JUnit, Mockito
+* Liquibase
+* REST, MVC
+* XML, JSON, YAML
+* Jackson
+* Git (GitHub)
+* Maven
+* Lombok
+* HTML, CSS, Thymeleaf
+* IntelliJ IDEA
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/AntonNarizhny/github-profile-views-counter">
