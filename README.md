@@ -2,9 +2,9 @@
 <img alt="Hello!" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java Backend Developer</h3>
 
-I am a backend developer. I believe in the power of programming to change and improve the lives of people around the world.
+<p>I am a backend developer. I believe in the power of programming to change and improve the lives of people around the world.</p>
 
-I like to create software products that will help people solve their problems or make their life easier.
+<p>I like to create software products that will help people solve their problems or make their life easier.</p>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/anton-narizhny">
@@ -18,7 +18,7 @@ I like to create software products that will help people solve their problems or
 </p>
 
 <div>
-## 🛠 Technical Stack
+<h3>🛠 Technical Stack</h3>
    <ul>
       <li>OOP, SOLID</li>
       <li>Java (Core, Collections, Stream API, Multithreading, Reflection API)</li>
